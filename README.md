@@ -16,7 +16,7 @@ Users can search for employees using a company "seed", view detailed information
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/employee-finder.git
+git clone https://github.com/kfirmoscovich1/EmployeeFinder.git
 cd employee-finder
 ```
 
